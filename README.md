@@ -1,7 +1,8 @@
 About Markdown
 
 ## I. History
-https://en.wikipedia.org/wiki/Markdown
+[Wiki](https://en.wikipedia.org/wiki/Markdown)
+
 [RIT](https://en.wikipedia.org/wiki/Markdown)
 
 ## II. Uses
