@@ -12,4 +12,4 @@
 ---
   - [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 ---
-!(image)[https://plantsvszombies.fandom.com/wiki/Plants_vs._Zombies_2/Gallery?file=PvZ2.png]
+![image](https://plantsvszombies.fandom.com/wiki/Plants_vs._Zombies_2/Gallery?file=PvZ2.png)
