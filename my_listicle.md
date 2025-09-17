@@ -13,3 +13,6 @@ PVZ
 ---
   - [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 ---
+- [Pak-Man](https://en.wikipedia.org/wiki/Pac-Man)
+  - [Tetris](https://en.wikipedia.org/wiki/Tetris)
+- [SuperMario](https://en.wikipedia.org/wiki/Super_Mario)
