@@ -1,9 +1,9 @@
-#My Legend Game List
+My Legend Game List
 ---
-##PVZ
+PVZ
 
 - [PvZ](https://en.wikipedia.org/wiki/Plants_vs._Zombies_2)
-###**Favorite**
+**Favorite**
 ---
   - [Clash of Clans](https://en.wikipedia.org/wiki/Clash_of_Clans)
 > *SecondFavorite*
