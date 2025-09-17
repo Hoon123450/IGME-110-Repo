@@ -1,6 +1,10 @@
 **My Legend Game List**
+---
 [PvZ](https://en.wikipedia.org/wiki/Plants_vs._Zombies_2)
+---
 [Clash of Clans](https://en.wikipedia.org/wiki/Clash_of_Clans)
+---
 [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon)
-{Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
-
+---
+[Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
+---
