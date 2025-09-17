@@ -10,5 +10,5 @@
 ---
 - [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon)
 ---
-  - [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
+ -   [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 ---
