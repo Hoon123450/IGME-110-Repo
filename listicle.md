@@ -8,7 +8,7 @@
 [Clash of Clans](https://en.wikipedia.org/wiki/Clash_of_Clans)
 > *SecondFavorite*
 ---
-[Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon)
+- [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon)
 ---
-[Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
+-   [Wii Sports](https://en.wikipedia.org/wiki/Wii_Sports)
 ---
